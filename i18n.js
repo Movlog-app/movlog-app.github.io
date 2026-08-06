@@ -14,7 +14,9 @@ async function loadLanguage(language){
     const value=messages[element.dataset.i18n];
     if(value!==undefined) element.innerHTML=value;
   });
-  toggle.textContent=messages['nav.language'];
+  const nextLanguage=language==='ko'?'en':'ko';
+  toggle.setAttribute('aria-label',messages['language.switch']);
+  toggle.setAttribute('title',messages['language.switch']);
   currentLanguage=language;
   localStorage.setItem('movlog-language',language);
 }
