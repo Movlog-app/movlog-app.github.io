@@ -120,6 +120,136 @@
       ]
     },
     {
+      "version": "1.4.0",
+      "date": "2025-08-01",
+      "title": "Movlog로 새롭게 시작",
+      "items": [
+        "앱 이름과 로고 리브랜딩",
+        "도보 이동 경로 표시",
+        "GPS 신호가 끊긴 지역 표시",
+        "운동시설 장소 유형 추가",
+        "주차 이벤트 감지 개선"
+      ]
+    },
+    {
+      "version": "1.3.3",
+      "date": "2025-07-25",
+      "title": "장소와 문의 기능 확장",
+      "items": [
+        "세탁소 장소 유형 추가",
+        "개발자 문의 기능 추가",
+        "이동 기록 이벤트 초기화 유형에 정차 이벤트 삭제 추가"
+      ]
+    },
+    {
+      "version": "1.3.2",
+      "date": "2025-07-22",
+      "title": "더 읽기 쉬워진 이동 상세 화면",
+      "items": [
+        "정차 이벤트 표시 방식 개선",
+        "이벤트 타임라인 사용성 개선"
+      ]
+    },
+    {
+      "version": "1.3.1",
+      "date": "2025-07-18",
+      "title": "이벤트 탐색 개선",
+      "items": [
+        "지도 핀과 하단 이벤트 타임라인 연동",
+        "병원·약국·미용·세차장 장소 유형 추가"
+      ]
+    },
+    {
+      "version": "1.3.0",
+      "date": "2025-07-15",
+      "title": "iOS와 앱 경험 개선",
+      "items": [
+        "iOS 18 이하 대응",
+        "설정 메뉴 문구 개선",
+        "앱 내 메시지와 구글 광고 추가"
+      ]
+    },
+    {
+      "version": "1.2.2",
+      "date": "2025-07-10",
+      "title": "안정성 개선",
+      "items": [
+        "주정차 이벤트 알고리즘 버그 수정",
+        "설정 메뉴에서 설치된 앱 버전 표시",
+        "마이너 버그 수정"
+      ]
+    },
+    {
+      "version": "1.2.1",
+      "date": "2025-07-08",
+      "title": "이동 상세 화면 개선",
+      "items": [
+        "상세 화면 요약 가독성 개선",
+        "길가(Street) 장소 유형 추가",
+        "주정차 이벤트 오감지 해결",
+        "안내 문구 개선"
+      ]
+    },
+    {
+      "version": "1.2.0",
+      "date": "2025-07-06",
+      "title": "정확한 기록과 영어 지원",
+      "items": [
+        "주차·정차 이벤트 감지 알고리즘 개선",
+        "앱 전체 영어 현지화",
+        "쉼터 장소 유형 추가",
+        "실제 차량·도보 이동 거리만 반영하도록 요약 개선",
+        "화면 갱신과 이동 경로 삭제 문제 개선"
+      ]
+    },
+    {
+      "version": "1.1.1",
+      "date": "2025-06-25",
+      "title": "설정과 이벤트 정리",
+      "items": [
+        "설정 메뉴 영어 현지화",
+        "지도 이벤트 중복·오류 수정",
+        "위치 민감도 설정 표현 개선",
+        "설정 항목 설명 보완"
+      ]
+    },
+    {
+      "version": "1.1.0",
+      "date": "2025-06-20",
+      "title": "성능과 이동 상세 화면 개선",
+      "items": [
+        "주차·정차 이벤트 감지 정확도 향상",
+        "방문 이벤트 생성 로직 개선",
+        "날짜 변경으로 인한 데이터 오류 해결",
+        "새 버전 출시 시 자동 업데이트 유도",
+        "지도 렌더링과 이벤트 타임라인 개선",
+        "14종 장소 유형 추가",
+        "GPS 수신 감도 표시",
+        "이동 상태별 아이콘 적용"
+      ]
+    },
+    {
+      "version": "1.0.2",
+      "date": "2025-06-10",
+      "title": "기록 안정성 개선",
+      "items": [
+        "앱 정보 섹션 자동 펼침 기능 추가",
+        "위치 데이터 중복 저장 문제 수정",
+        "내부 데이터 저장 방식 리팩터링"
+      ]
+    },
+    {
+      "version": "1.0.1",
+      "date": "2025-06-05",
+      "title": "첫 번째 안정화 업데이트",
+      "items": [
+        "주차 이벤트 정확도 향상",
+        "설정 화면 리뉴얼",
+        "마이너 버그 수정",
+        "상세 화면에서 이벤트 편집·삭제 안내 추가"
+      ]
+    },
+    {
       "version": "1.0.0",
       "date": "2025-05-30",
       "title": "Movlog 첫 출시",
@@ -250,6 +380,136 @@
         "Mark areas with lost GPS signal",
         "Added Gym place type",
         "Improved parking event detection"
+      ]
+    },
+    {
+      "version": "1.4.0",
+      "date": "2025-08-01",
+      "title": "A new beginning for Movlog",
+      "items": [
+        "App name and logo rebrand",
+        "Walking routes on the map",
+        "Mark areas with lost GPS signal",
+        "Added Gym place type",
+        "Improved parking event detection"
+      ]
+    },
+    {
+      "version": "1.3.3",
+      "date": "2025-07-25",
+      "title": "More places and an easier way to reach out",
+      "items": [
+        "Added Laundry place type",
+        "Added developer contact",
+        "Added stop-event deletion to record reset options"
+      ]
+    },
+    {
+      "version": "1.3.2",
+      "date": "2025-07-22",
+      "title": "A clearer movement detail view",
+      "items": [
+        "Improved stop-event presentation",
+        "Made the event timeline easier to use"
+      ]
+    },
+    {
+      "version": "1.3.1",
+      "date": "2025-07-18",
+      "title": "Better event exploration",
+      "items": [
+        "Connected map pins with the bottom event timeline",
+        "Added Hospital, Pharmacy, Beauty Salon, and Car Wash place types"
+      ]
+    },
+    {
+      "version": "1.3.0",
+      "date": "2025-07-15",
+      "title": "A smoother iOS experience",
+      "items": [
+        "Support for iOS 18 and earlier",
+        "Refined Settings copy",
+        "Added in-app messages and Google advertising"
+      ]
+    },
+    {
+      "version": "1.2.2",
+      "date": "2025-07-10",
+      "title": "Stability improvements",
+      "items": [
+        "Fixed parking and stopping event algorithm issues",
+        "Show the installed app version in Settings",
+        "Minor bug fixes"
+      ]
+    },
+    {
+      "version": "1.2.1",
+      "date": "2025-07-08",
+      "title": "A better movement detail view",
+      "items": [
+        "Improved summary readability",
+        "Added Street place type",
+        "Fixed false parking and stopping events",
+        "Refined guidance copy"
+      ]
+    },
+    {
+      "version": "1.2.0",
+      "date": "2025-07-06",
+      "title": "More accurate records and English support",
+      "items": [
+        "Improved parking and stopping detection",
+        "Full English localization",
+        "Added Shelter place type",
+        "Summaries now reflect actual driving and walking distance",
+        "Fixed refresh and route deletion issues"
+      ]
+    },
+    {
+      "version": "1.1.1",
+      "date": "2025-06-25",
+      "title": "Cleaner settings and events",
+      "items": [
+        "English localization for Settings",
+        "Fixed duplicate and incorrect map events",
+        "Made location sensitivity options clearer",
+        "Improved descriptions for settings"
+      ]
+    },
+    {
+      "version": "1.1.0",
+      "date": "2025-06-20",
+      "title": "Performance and movement detail improvements",
+      "items": [
+        "Improved parking and stopping detection",
+        "Improved visit-event generation",
+        "Fixed date-change data issues",
+        "Added update guidance for new releases",
+        "Improved map rendering and event timeline",
+        "Added 14 place types",
+        "Added GPS signal strength indicator",
+        "Added movement-state icons"
+      ]
+    },
+    {
+      "version": "1.0.2",
+      "date": "2025-06-10",
+      "title": "More reliable records",
+      "items": [
+        "Added an auto-expanded App Info section",
+        "Fixed duplicate location saves",
+        "Refactored internal data storage"
+      ]
+    },
+    {
+      "version": "1.0.1",
+      "date": "2025-06-05",
+      "title": "The first stability update",
+      "items": [
+        "Improved parking event accuracy",
+        "Redesigned Settings",
+        "Minor bug fixes",
+        "Added guidance for editing and deleting events in Detail"
       ]
     },
     {
