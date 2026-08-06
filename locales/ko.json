@@ -1,0 +1,22 @@
+{
+  "site.title": "Movlog — 나의 이동 일상을 자동으로 기록하다.",
+  "site.description": "Movlog는 나의 이동 일상을 자동으로 기록하고, 하루의 장소와 경로를 하나의 이야기로 만들어줍니다.",
+  "nav.about": "Movlog란",
+  "nav.language": "EN",
+  "hero.eyebrow": "나의 이동 일상을 자동으로 기록하다.",
+  "hero.title": "당신이 간 곳이<br><i>하나의 이야기가 됩니다.</i>",
+  "hero.description": "Movlog는 나의 이동 일상을 조용히 기록합니다. 오늘의 장소와 경로, 그리고 그날의 순간을 언제든 돌아볼 수 있도록.",
+  "hero.cta": "Movlog 알아보기",
+  "map.home": "집",
+  "map.today": "오늘 · 12.4 km",
+  "about.eyebrow": "MOVLOG가 필요한 이유",
+  "about.title": "오늘을 살아가고,<br><i>움직임을 기억하세요.</i>",
+  "about.description": "의미 있는 순간이 모두 계획된 것은 아닙니다. Movlog는 나의 일상을 자동으로, 사적으로, 아름답게 기록합니다.",
+  "features.automatic.title": "자동으로",
+  "features.automatic.description": "별도의 수고 없이, 나의 이동 일상이 백그라운드에서 기록됩니다.",
+  "features.personal.title": "나만의 기록",
+  "features.personal.description": "나의 경로와 장소가 오직 나를 위한 타임라인이 됩니다.",
+  "features.reflective.title": "돌아보기",
+  "features.reflective.description": "지나온 길을 돌아보며 나의 일상 속 패턴을 발견할 수 있습니다.",
+  "footer.tagline": "나의 일상을 위해 만들어졌습니다."
+}
