@@ -3,28 +3,24 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Movlog — 나의 이동 일상을 자동으로 기록하다.</title>
-<meta name="description" content="Movlog는 나의 이동 일상을 자동으로 기록하고, 하루의 장소와 경로를 하나의 이야기로 만들어줍니다.">
+<title>Movlog</title>
+<meta name="description" content="">
 <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-<header><a class="logo" href="/">Movlog</a><nav><a href="#about" data-ko="Movlog란" data-en="About">Movlog란</a><button id="language-toggle" type="button">EN</button></nav></header>
+<header><a class="logo" href="/">Movlog</a><nav><a href="#about" data-i18n="nav.about">Movlog란</a><button id="language-toggle" type="button" aria-label="Switch language">EN</button></nav></header>
 <main>
 <section class="hero">
-<p class="eyebrow" data-ko="나의 이동 일상을 자동으로 기록하다." data-en="YOUR EVERYDAY MOVEMENTS, AUTOMATICALLY RECORDED.">나의 이동 일상을 자동으로 기록하다.</p>
-<h1 data-ko="당신이 간 곳이<br><i>하나의 이야기가 됩니다.</i>" data-en="Where you go<br><i>becomes a story.</i>">당신이 간 곳이<br><i>하나의 이야기가 됩니다.</i></h1>
-<p class="intro" data-ko="Movlog는 나의 이동 일상을 조용히 기록합니다. 오늘의 장소와 경로, 그리고 그날의 순간을 언제든 돌아볼 수 있도록." data-en="Movlog quietly records your everyday movements, so you can look back on the places, routes, and moments that made up your day.">Movlog는 나의 이동 일상을 조용히 기록합니다. 오늘의 장소와 경로, 그리고 그날의 순간을 언제든 돌아볼 수 있도록.</p>
-<a class="cta" href="#about"><span data-ko="Movlog 알아보기" data-en="Discover Movlog">Movlog 알아보기</span> <span>↗</span></a>
-<div class="map"><div class="route"></div><b class="pin one"></b><b class="pin two"></b><b class="pin three"></b><label class="home" data-ko="집" data-en="Home">집</label><label class="today" data-ko="오늘 · 12.4 km" data-en="Today · 12.4 km">오늘 · 12.4 km</label></div>
+<p class="eyebrow" data-i18n="hero.eyebrow">나의 이동 일상을 자동으로 기록하다.</p>
+<h1 data-i18n="hero.title">당신이 간 곳이<br><i>하나의 이야기가 됩니다.</i></h1>
+<p class="intro" data-i18n="hero.description">Movlog는 나의 이동 일상을 조용히 기록합니다.</p>
+<a class="cta" href="#about"><span data-i18n="hero.cta">Movlog 알아보기</span> <span>↗</span></a>
+<div class="map"><div class="route"></div><b class="pin one"></b><b class="pin two"></b><b class="pin three"></b><label class="home" data-i18n="map.home">집</label><label class="today" data-i18n="map.today">오늘 · 12.4 km</label></div>
 </section>
-<section id="about" class="about"><p class="eyebrow" data-ko="MOVLOG가 필요한 이유" data-en="WHY MOVLOG">MOVLOG가 필요한 이유</p><div><h2 data-ko="오늘을 살아가고,<br><i>움직임을 기억하세요.</i>" data-en="Live your day.<br><i>Remember the movement.</i>">오늘을 살아가고,<br><i>움직임을 기억하세요.</i></h2><p data-ko="의미 있는 순간이 모두 계획된 것은 아닙니다. Movlog는 나의 일상을 자동으로, 사적으로, 아름답게 기록합니다." data-en="Not every meaningful moment is planned. Movlog helps you keep a quiet record of everyday life — automatically, privately, and beautifully.">의미 있는 순간이 모두 계획된 것은 아닙니다. Movlog는 나의 일상을 자동으로, 사적으로, 아름답게 기록합니다.</p></div></section>
-<section class="features"><article><small>01</small><h3 data-ko="자동으로" data-en="Automatic">자동으로</h3><p data-ko="별도의 수고 없이, 나의 이동 일상이 백그라운드에서 기록됩니다." data-en="Your daily movement is recorded in the background with minimal effort.">별도의 수고 없이, 나의 이동 일상이 백그라운드에서 기록됩니다.</p></article><article><small>02</small><h3 data-ko="나만의 기록" data-en="Personal">나만의 기록</h3><p data-ko="나의 경로와 장소가 오직 나를 위한 타임라인이 됩니다." data-en="Your routes and places become a timeline that belongs only to you.">나의 경로와 장소가 오직 나를 위한 타임라인이 됩니다.</p></article><article><small>03</small><h3 data-ko="돌아보기" data-en="Reflective">돌아보기</h3><p data-ko="지나온 길을 돌아보며 나의 일상 속 패턴을 발견할 수 있습니다." data-en="Look back at the paths you took and discover patterns in your everyday life.">지나온 길을 돌아보며 나의 일상 속 패턴을 발견할 수 있습니다.</p></article></section>
+<section id="about" class="about"><p class="eyebrow" data-i18n="about.eyebrow">MOVLOG가 필요한 이유</p><div><h2 data-i18n="about.title">오늘을 살아가고,<br><i>움직임을 기억하세요.</i></h2><p data-i18n="about.description">의미 있는 순간이 모두 계획된 것은 아닙니다.</p></div></section>
+<section class="features"><article><small>01</small><h3 data-i18n="features.automatic.title">자동으로</h3><p data-i18n="features.automatic.description">나의 이동 일상이 백그라운드에서 기록됩니다.</p></article><article><small>02</small><h3 data-i18n="features.personal.title">나만의 기록</h3><p data-i18n="features.personal.description">나의 경로와 장소가 타임라인이 됩니다.</p></article><article><small>03</small><h3 data-i18n="features.reflective.title">돌아보기</h3><p data-i18n="features.reflective.description">나의 일상 속 패턴을 발견할 수 있습니다.</p></article></section>
 </main>
-<footer><span>© 2026 Movlog</span><span data-ko="나의 일상을 위해 만들어졌습니다." data-en="Made for everyday life.">나의 일상을 위해 만들어졌습니다.</span></footer>
-<script>
-const toggle=document.getElementById('language-toggle');let language=localStorage.getItem('movlog-language')||'ko';
-function setLanguage(next){language=next;document.documentElement.lang=next;document.title=next==='ko'?'Movlog — 나의 이동 일상을 자동으로 기록하다.':'Movlog — Your everyday movements, automatically recorded.';document.querySelectorAll('[data-ko]').forEach(el=>el.innerHTML=el.dataset[next]);toggle.textContent=next==='ko'?'EN':'한국어';localStorage.setItem('movlog-language',next)}
-toggle.addEventListener('click',()=>setLanguage(language==='ko'?'en':'ko'));setLanguage(language);
-</script>
+<footer><span>© 2026 Movlog</span><span data-i18n="footer.tagline">나의 일상을 위해 만들어졌습니다.</span></footer>
+<script src="i18n.js"></script>
 </body>
 </html>
