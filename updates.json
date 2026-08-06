@@ -1,0 +1,268 @@
+{
+  "ko": [
+    {
+      "version": "4.1.0",
+      "date": "2026-07-31",
+      "title": "더 풍부해진 하루의 기록",
+      "items": [
+        "날씨 화면을 새롭게 구성",
+        "다양한 테마로 Movlog 꾸미기",
+        "Apple Watch·CarPlay용 라이브 액티비티 최적화",
+        "이동 기록 스냅샷 저장 및 공유",
+        "화면별 도움말 추가",
+        "사용성과 안정성 개선"
+      ]
+    },
+    {
+      "version": "4.0.0",
+      "date": "2026-07-17",
+      "title": "Movlog가 새롭게 태어났어요",
+      "items": [
+        "기록과 데이터 저장 안정성 개선",
+        "이동 경로와 방문 장소 정확도 향상",
+        "장거리 이동 중 지도와 경로 표시 개선",
+        "보관함 월간·연간 보기 추가",
+        "상세 화면 정보 구조 개선",
+        "해외 기록의 시간대 표시 개선",
+        "날씨·업적·인사이트 기능 추가",
+        "사진과 기록 관리 개선"
+      ]
+    },
+    {
+      "version": "3.1.0",
+      "date": "2026-01-06",
+      "title": "더 편안해진 기록 탐색",
+      "items": [
+        "기록과 보관함 탐색 개선",
+        "요약이 필요한 날짜와 기록 중인 날짜를 쉽게 구분",
+        "탭과 화면 제목 정리",
+        "성능과 안정성 개선"
+      ]
+    },
+    {
+      "version": "3.0.1",
+      "date": "2025-12-21",
+      "title": "보관함과 메모",
+      "items": [
+        "날짜별 이동 기록과 메모를 달력으로 탐색",
+        "요약되지 않은 기록을 직접 정리",
+        "기록 상태를 쉽게 확인"
+      ]
+    },
+    {
+      "version": "3.0.0",
+      "date": "2025-12-14",
+      "title": "iOS 26을 위한 업데이트",
+      "items": [
+        "iOS 26 대응",
+        "하단 탭 아이콘 디자인 개선",
+        "사용성과 안정성 개선"
+      ]
+    },
+    {
+      "version": "2.2.2",
+      "date": "2025-10-20",
+      "title": "iPad 기록 화면 개선",
+      "items": [
+        "iPad 메모아 화면 전환 성능 개선",
+        "안정성 개선"
+      ]
+    },
+    {
+      "version": "2.2.1",
+      "date": "2025-10-13",
+      "title": "iPad와 새로운 장소 유형",
+      "items": [
+        "은행·정비소 장소 유형 추가",
+        "iPad 지원",
+        "iOS 26 디자인 대응"
+      ]
+    },
+    {
+      "version": "2.2.0",
+      "date": "2025-09-21",
+      "title": "사진으로 돌아보는 하루",
+      "items": [
+        "하루의 사진 갤러리 추가",
+        "사진을 지도 위에 표시",
+        "사진 위치별 묶음 보기",
+        "영어 날짜 형식 개선"
+      ]
+    },
+    {
+      "version": "2.1.0",
+      "date": "2025-09-09",
+      "title": "사진 갤러리의 시작",
+      "items": [
+        "메모아 화면에 사진 갤러리 추가",
+        "방문 분석 알고리즘 개선"
+      ]
+    },
+    {
+      "version": "2.0.0",
+      "date": "2025-08-24",
+      "title": "새로운 모습의 Movlog",
+      "items": [
+        "앱 아이콘과 다크 모드 개선",
+        "차량 이동 감지 속도 향상"
+      ]
+    },
+    {
+      "version": "1.4.1",
+      "date": "2025-08-02",
+      "title": "새 이름, 새로운 로고",
+      "items": [
+        "Movlog 브랜드 리뉴얼",
+        "도보 경로 표시",
+        "GPS 신호가 끊긴 구간 표시",
+        "운동시설 장소 유형 추가",
+        "주차 이벤트 감지 개선"
+      ]
+    },
+    {
+      "version": "launch",
+      "date": "2025-05-30",
+      "title": "Movlog 첫 출시",
+      "items": [
+        "하루의 이동 경로 자동 기록",
+        "방문 장소와 체류 시간 기록",
+        "차량·도보 이동 구분",
+        "지도와 타임라인으로 하루 돌아보기",
+        "Trace your path, Tell your story."
+      ]
+    }
+  ],
+  "en": [
+    {
+      "version": "4.1.0",
+      "date": "2026-07-31",
+      "title": "A richer record of every day",
+      "items": [
+        "A redesigned weather screen",
+        "New themes to personalize Movlog",
+        "Live Activities optimized for Apple Watch and CarPlay",
+        "Save and share movement snapshots",
+        "Helpful guides across the app",
+        "Smoother and more stable experience"
+      ]
+    },
+    {
+      "version": "4.0.0",
+      "date": "2026-07-17",
+      "title": "A new Movlog",
+      "items": [
+        "More reliable record and data storage",
+        "More accurate routes and visited places",
+        "Smoother maps during long journeys",
+        "Monthly and yearly Archive views",
+        "Clearer detail screens",
+        "Improved timezone handling for overseas records",
+        "New weather, achievements, and insights",
+        "Improved photo and record management"
+      ]
+    },
+    {
+      "version": "3.1.0",
+      "date": "2026-01-06",
+      "title": "A calmer way to explore your records",
+      "items": [
+        "Smoother browsing across Traces and Archive",
+        "Clearer recording and summary states",
+        "Refined tab labels and screen titles",
+        "Performance and stability improvements"
+      ]
+    },
+    {
+      "version": "3.0.1",
+      "date": "2025-12-21",
+      "title": "Archive and daily memories",
+      "items": [
+        "Explore movement records and memos on a calendar",
+        "Summarize records directly from Archive",
+        "See which dates need attention at a glance"
+      ]
+    },
+    {
+      "version": "3.0.0",
+      "date": "2025-12-14",
+      "title": "Ready for iOS 26",
+      "items": [
+        "iOS 26 compatibility",
+        "Improved bottom tab icon design",
+        "Usability and stability improvements"
+      ]
+    },
+    {
+      "version": "2.2.2",
+      "date": "2025-10-20",
+      "title": "A better iPad experience",
+      "items": [
+        "Smoother background transitions in Memoir on iPad",
+        "Stability improvements"
+      ]
+    },
+    {
+      "version": "2.2.1",
+      "date": "2025-10-13",
+      "title": "iPad support and new places",
+      "items": [
+        "Added Bank and Repair Shop place types",
+        "iPad support",
+        "Optimized for the iOS 26 design"
+      ]
+    },
+    {
+      "version": "2.2.0",
+      "date": "2025-09-21",
+      "title": "Look back with photos",
+      "items": [
+        "Added a daily photo gallery",
+        "Display selected photos on the map",
+        "Group photos by location",
+        "Improved English date formatting"
+      ]
+    },
+    {
+      "version": "2.1.0",
+      "date": "2025-09-09",
+      "title": "The beginning of Photo Gallery",
+      "items": [
+        "Added Photo Gallery to Memoir",
+        "Improved visit analysis"
+      ]
+    },
+    {
+      "version": "2.0.0",
+      "date": "2025-08-24",
+      "title": "A new look for Movlog",
+      "items": [
+        "Updated app icon and Dark Mode",
+        "Faster vehicle movement detection"
+      ]
+    },
+    {
+      "version": "1.4.1",
+      "date": "2025-08-02",
+      "title": "New name. New logo.",
+      "items": [
+        "Movlog brand refresh",
+        "Walking routes on the map",
+        "Mark areas with lost GPS signal",
+        "Added Gym place type",
+        "Improved parking event detection"
+      ]
+    },
+    {
+      "version": "launch",
+      "date": "2025-05-30",
+      "title": "The first release of Movlog",
+      "items": [
+        "Automatically record your daily routes",
+        "Record visited places and dwell time",
+        "Distinguish driving and walking",
+        "Review each day with a map and timeline",
+        "Trace your path, Tell your story."
+      ]
+    }
+  ]
+}
