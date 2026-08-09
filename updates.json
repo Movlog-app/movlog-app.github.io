@@ -30,7 +30,7 @@
     },
     {
       "version": "3.1.0",
-      "date": "2026-01-06",
+      "date": "2026-01-01",
       "title": "더 편안해진 기록 탐색",
       "items": [
         "기록과 보관함 탐색 개선",
@@ -91,7 +91,7 @@
     },
     {
       "version": "2.1.0",
-      "date": "2025-09-09",
+      "date": "2025-09-07",
       "title": "사진 갤러리의 시작",
       "items": [
         "메모아 화면에 사진 갤러리 추가",
@@ -100,7 +100,7 @@
     },
     {
       "version": "2.0.0",
-      "date": "2025-08-24",
+      "date": "2025-08-23",
       "title": "새로운 모습의 Movlog",
       "items": [
         "앱 아이콘과 다크 모드 개선",
@@ -109,7 +109,7 @@
     },
     {
       "version": "1.4.1",
-      "date": "2025-08-02",
+      "date": "2025-08-03",
       "title": "새 이름, 새로운 로고",
       "items": [
         "Movlog 브랜드 리뉴얼",
@@ -143,7 +143,7 @@
     },
     {
       "version": "1.3.2",
-      "date": "2025-07-09",
+      "date": "2025-07-08",
       "title": "더 읽기 쉬워진 이동 상세 화면",
       "items": [
         "정차 이벤트 표시 방식 개선",
@@ -152,7 +152,7 @@
     },
     {
       "version": "1.3.1",
-      "date": "2025-07-06",
+      "date": "2025-07-05",
       "title": "이벤트 탐색 개선",
       "items": [
         "지도 핀과 하단 이벤트 타임라인 연동",
@@ -171,7 +171,7 @@
     },
     {
       "version": "1.2.2",
-      "date": "2025-06-28",
+      "date": "2025-06-27",
       "title": "안정성 개선",
       "items": [
         "주정차 이벤트 알고리즘 버그 수정",
@@ -192,7 +192,7 @@
     },
     {
       "version": "1.2.0",
-      "date": "2025-06-22",
+      "date": "2025-06-23",
       "title": "정확한 기록과 영어 지원",
       "items": [
         "주차·정차 이벤트 감지 알고리즘 개선",
@@ -204,7 +204,7 @@
     },
     {
       "version": "1.1.1",
-      "date": "2025-06-16",
+      "date": "2025-06-15",
       "title": "설정과 이벤트 정리",
       "items": [
         "설정 메뉴 영어 현지화",
@@ -215,7 +215,7 @@
     },
     {
       "version": "1.1.0",
-      "date": "2025-06-15",
+      "date": "2025-06-14",
       "title": "성능과 이동 상세 화면 개선",
       "items": [
         "주차·정차 이벤트 감지 정확도 향상",
@@ -230,7 +230,7 @@
     },
     {
       "version": "1.0.2",
-      "date": "2025-06-13",
+      "date": "2025-06-12",
       "title": "기록 안정성 개선",
       "items": [
         "앱 정보 섹션 자동 펼침 기능 추가",
@@ -293,7 +293,7 @@
     },
     {
       "version": "3.1.0",
-      "date": "2026-01-06",
+      "date": "2026-01-01",
       "title": "A calmer way to explore your records",
       "items": [
         "Smoother browsing across Traces and Archive",
@@ -354,7 +354,7 @@
     },
     {
       "version": "2.1.0",
-      "date": "2025-09-09",
+      "date": "2025-09-07",
       "title": "The beginning of Photo Gallery",
       "items": [
         "Added Photo Gallery to Memoir",
@@ -363,7 +363,7 @@
     },
     {
       "version": "2.0.0",
-      "date": "2025-08-24",
+      "date": "2025-08-23",
       "title": "A new look for Movlog",
       "items": [
         "Updated app icon and Dark Mode",
@@ -372,7 +372,7 @@
     },
     {
       "version": "1.4.1",
-      "date": "2025-08-02",
+      "date": "2025-08-03",
       "title": "New name. New logo.",
       "items": [
         "Movlog brand refresh",
@@ -406,7 +406,7 @@
     },
     {
       "version": "1.3.2",
-      "date": "2025-07-09",
+      "date": "2025-07-08",
       "title": "A clearer movement detail view",
       "items": [
         "Improved stop-event presentation",
@@ -415,7 +415,7 @@
     },
     {
       "version": "1.3.1",
-      "date": "2025-07-06",
+      "date": "2025-07-05",
       "title": "Better event exploration",
       "items": [
         "Connected map pins with the bottom event timeline",
@@ -434,7 +434,7 @@
     },
     {
       "version": "1.2.2",
-      "date": "2025-06-28",
+      "date": "2025-06-27",
       "title": "Stability improvements",
       "items": [
         "Fixed parking and stopping event algorithm issues",
@@ -455,7 +455,7 @@
     },
     {
       "version": "1.2.0",
-      "date": "2025-06-22",
+      "date": "2025-06-23",
       "title": "More accurate records and English support",
       "items": [
         "Improved parking and stopping detection",
@@ -467,7 +467,7 @@
     },
     {
       "version": "1.1.1",
-      "date": "2025-06-16",
+      "date": "2025-06-15",
       "title": "Cleaner settings and events",
       "items": [
         "English localization for Settings",
@@ -478,7 +478,7 @@
     },
     {
       "version": "1.1.0",
-      "date": "2025-06-15",
+      "date": "2025-06-14",
       "title": "Performance and movement detail improvements",
       "items": [
         "Improved parking and stopping detection",
@@ -493,7 +493,7 @@
     },
     {
       "version": "1.0.2",
-      "date": "2025-06-13",
+      "date": "2025-06-12",
       "title": "More reliable records",
       "items": [
         "Added an auto-expanded App Info section",
