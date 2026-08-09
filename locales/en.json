@@ -41,5 +41,8 @@
   "about.point1.label": "AUTOMATIC TRACKING",
   "about.point2.label": "VISIT & STAY",
   "about.point3.label": "PERSONAL INSIGHTS",
-  "showcase.insights": "Discover your movement patterns"
+  "showcase.insights": "Discover your movement patterns",
+  "about.point4.label": "KEEP MOVING",
+  "about.point4.title": "A reason to keep moving",
+  "about.point4.description": "Build your movement history, discover new achievements, and keep your personal journey going."
 }
