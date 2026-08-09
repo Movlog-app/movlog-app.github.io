@@ -463,3 +463,15 @@ footer{max-width:1200px;margin:0 auto;border-top:1px solid var(--line)}
   .story-copy h3{font-size:clamp(2.1rem,10vw,3.3rem)}
   .story-caption{margin-top:22px}
 }
+
+/* Keep Korean copy readable at word boundaries */
+h1,h2,h3,p,li,figcaption,.cta,.story-label,.story-caption{
+  word-break:keep-all;
+  overflow-wrap:break-word;
+}
+.story-copy>p:not(.story-label),
+.about-copy>p,
+.showcase-copy>p:not(.eyebrow),
+.updates-intro{
+  word-break:keep-all;
+}
