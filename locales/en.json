@@ -37,5 +37,9 @@
   "about.point2.description": "See the places you visited and the time you spent there on a map and timeline.",
   "about.point3.title": "Personal insights",
   "about.point3.description": "Discover your favorite places and movement patterns in everyday life.",
-  "showcase.achievements": "Explore achievements"
+  "showcase.achievements": "Explore achievements",
+  "about.point1.label": "AUTOMATIC TRACKING",
+  "about.point2.label": "VISIT & STAY",
+  "about.point3.label": "PERSONAL INSIGHTS",
+  "showcase.insights": "Discover your movement patterns"
 }
