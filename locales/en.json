@@ -20,5 +20,15 @@
   "features.personal.description": "Your routes and places become a timeline that belongs only to you.",
   "features.reflective.title": "Reflective",
   "features.reflective.description": "Look back at the paths you took and discover patterns in your everyday life.",
-  "footer.tagline": "Made for everyday life."
+  "footer.tagline": "Made for everyday life.",
+  "showcase.eyebrow": "SEE MOVLOG IN ACTION",
+  "showcase.title": "See your day<br><i>at a glance.</i>",
+  "showcase.description": "From routes and visited places to photos and insights, discover the day Movlog quietly records for you.",
+  "showcase.download": "Download on the App Store",
+  "showcase.main": "Your day on the map",
+  "showcase.archive": "Look back on your records",
+  "showcase.details": "Every detail of your day",
+  "download.eyebrow": "START YOUR STORY",
+  "download.title": "Turn your movement<br><i>into your story.</i>",
+  "download.button": "Download on the App Store"
 }

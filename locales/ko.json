@@ -20,5 +20,15 @@
   "features.personal.description": "나의 경로와 장소가 오직 나를 위한 타임라인이 됩니다.",
   "features.reflective.title": "돌아보기",
   "features.reflective.description": "지나온 길을 돌아보며 나의 일상 속 패턴을 발견할 수 있습니다.",
-  "footer.tagline": "나의 일상을 위해 만들어졌습니다."
+  "footer.tagline": "나의 일상을 위해 만들어졌습니다.",
+  "showcase.eyebrow": "MOVLOG를 직접 만나보세요",
+  "showcase.title": "당신의 하루를<br><i>한눈에 돌아보세요.</i>",
+  "showcase.description": "이동 경로부터 방문 장소, 사진과 인사이트까지. Movlog가 기록하는 하루를 직접 만나보세요.",
+  "showcase.download": "App Store에서 다운로드",
+  "showcase.main": "오늘의 이동을 지도에서",
+  "showcase.archive": "기록을 다시 돌아보기",
+  "showcase.details": "하루의 세부 기록까지",
+  "download.eyebrow": "START YOUR STORY",
+  "download.title": "당신의 이동을,<br><i>당신의 이야기로.</i>",
+  "download.button": "App Store에서 다운로드"
 }
