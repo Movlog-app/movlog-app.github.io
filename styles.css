@@ -338,3 +338,21 @@ footer{max-width:1200px;margin:0 auto;border-top:1px solid var(--line)}
   .about-point-shot img{object-position:center 38%}
   .about-points article{padding-right:0}
 }
+
+/* Keep the mobile tag guide available while browsing the changelog */
+@media(max-width:800px){
+  .updates-legend{
+    position:sticky;
+    top:0;
+    z-index:10;
+    align-self:stretch;
+    width:100%;
+    margin:0;
+    padding:14px 0 16px;
+    background:color-mix(in srgb,var(--paper) 94%,transparent);
+    -webkit-backdrop-filter:blur(14px);
+    backdrop-filter:blur(14px);
+    box-shadow:0 8px 18px rgba(23,34,31,.06);
+  }
+  .updates-legend h2{margin-bottom:14px}
+}
