@@ -41,5 +41,8 @@
   "about.point1.label": "자동 기록",
   "about.point2.label": "방문과 체류",
   "about.point3.label": "나만의 인사이트",
-  "showcase.insights": "나의 이동 패턴을 발견하기"
+  "showcase.insights": "나의 이동 패턴을 발견하기",
+  "about.point4.label": "기록을 이어가는 재미",
+  "about.point4.title": "기록을 이어가는 재미",
+  "about.point4.description": "이동과 방문 기록을 쌓으며 새로운 업적을 발견하고, 나의 여정을 계속 이어갑니다."
 }
