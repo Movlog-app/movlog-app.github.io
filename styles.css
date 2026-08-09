@@ -104,3 +104,6 @@ i{
   .update-card.latest h2{line-height:1.1}
 }
 
+
+.update-tags.compact{margin-top:-4px;margin-bottom:22px}
+.update-tags.compact span{border-color:var(--line);color:var(--muted);background:transparent;padding:5px 8px;font-size:.6rem}
