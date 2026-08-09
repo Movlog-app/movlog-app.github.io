@@ -281,3 +281,12 @@ footer{max-width:1200px;margin:0 auto;border-top:1px solid var(--line)}
 .cta>span:first-child{color:inherit}
 .cta>span:last-child{color:var(--lime)}
 .store-cta>span:first-child,.store-cta>span:last-child{color:var(--ink)}
+
+/* Real app preview in hero */
+.hero-preview{position:absolute;right:6vw;bottom:9vh;width:390px;height:270px;border:7px solid #1b2823;border-radius:30px;overflow:hidden;background:#dce9d8;box-shadow:0 24px 70px rgba(36,61,42,.18);transform:rotate(2deg);transition:transform .3s ease,box-shadow .3s ease}
+.hero-preview:hover{transform:rotate(0) translateY(-6px);box-shadow:0 32px 82px rgba(36,61,42,.23)}
+.hero-preview img{display:block;width:100%;height:100%;object-fit:cover;object-position:center 48%}
+.preview-badge{position:absolute;left:18px;bottom:16px;padding:8px 12px;border-radius:999px;background:rgba(255,255,255,.92);color:var(--ink);font-size:.7rem;font-weight:700;letter-spacing:-.02em}
+@media(max-width:800px){
+  .hero-preview{position:relative;right:auto;bottom:auto;width:100%;height:260px;margin-top:70px;transform:rotate(1deg)}
+}
