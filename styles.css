@@ -276,3 +276,8 @@ footer{max-width:1200px;margin:0 auto;border-top:1px solid var(--line)}
 @media(max-width:800px){
   .home-link{border-radius:50%}
 }
+
+/* CTA text and arrow contrast */
+.cta>span:first-child{color:inherit}
+.cta>span:last-child{color:var(--lime)}
+.store-cta>span:first-child,.store-cta>span:last-child{color:var(--ink)}
