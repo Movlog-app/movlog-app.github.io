@@ -62,7 +62,7 @@ function renderUpdate(update,index,m){
   if(latest){
     return '<article class="update-card latest"><div class="update-topline"><span class="update-kicker">'+m['updates.latest']+'</span>'+date+'</div><div class="update-heading"><div><span class="update-version">v'+escapeHtml(update.version)+'</span><h2>'+escapeHtml(update.title)+'</h2></div><span class="update-symbol" aria-hidden="true">↗</span></div><div class="update-tags">'+tags+'</div><div class="update-body">'+updateBody(update)+'</div></article>';
   }
-  return '<article class="update-card timeline-item"><div class="update-marker" aria-hidden="true"></div><div class="update-card-inner"><div class="update-meta"><strong>v'+escapeHtml(update.version)+'</strong>'+date+'</div><h2>'+escapeHtml(update.title)+'</h2><div class="update-tags compact">'+tags+'</div><button class="update-toggle" type="button" aria-expanded="false"><span>'+m['updates.details']+'</span><span aria-hidden="true">+</span></button><div class="update-body" hidden>'+updateBody(update)+'</div></div></article>';
+  return '<article class="update-card timeline-item"><div class="update-marker" aria-hidden="true"></div><div class="update-card-inner"><div class="update-meta"><strong>v'+escapeHtml(update.version)+'</strong>'+date+'</div><div class="update-tags compact">'+tags+'</div><h2>'+escapeHtml(update.title)+'</h2><button class="update-toggle" type="button" aria-expanded="false"><span>'+m['updates.details']+'</span><span aria-hidden="true">+</span></button><div class="update-body" hidden>'+updateBody(update)+'</div></div></article>';
 }
 
 async function render(next){
