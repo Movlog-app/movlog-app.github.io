@@ -307,3 +307,34 @@ footer{max-width:1200px;margin:0 auto;border-top:1px solid var(--line)}
   .about-points article{padding:22px 0;border-bottom:1px solid var(--line)}
   .about-points article:last-child{border-bottom:0}
 }
+
+/* Feature story screenshots */
+.about-point-shot{
+  margin:0 0 24px;
+  overflow:hidden;
+  border:1px solid var(--line);
+  border-radius:20px;
+  background:#dce9d8;
+  aspect-ratio:9/13;
+  box-shadow:0 14px 30px rgba(23,34,31,.10);
+}
+.about-point-shot img{
+  display:block;
+  width:100%;
+  height:100%;
+  object-fit:cover;
+  object-position:center;
+  transition:transform .3s ease;
+}
+.about-points article:hover .about-point-shot img{transform:scale(1.04)}
+.about-points article{padding-right:24px}
+@media(max-width:800px){
+  .about-point-shot{
+    max-height:300px;
+    aspect-ratio:16/10;
+    border-radius:16px;
+    margin-bottom:20px;
+  }
+  .about-point-shot img{object-position:center 38%}
+  .about-points article{padding-right:0}
+}
