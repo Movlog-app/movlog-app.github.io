@@ -356,3 +356,6 @@ footer{max-width:1200px;margin:0 auto;border-top:1px solid var(--line)}
   }
   .updates-legend h2{margin-bottom:14px}
 }
+
+.shot-achievements{transform:translateY(-20px)}
+@media(max-width:800px){.shot-achievements{transform:translateY(-12px)}}
