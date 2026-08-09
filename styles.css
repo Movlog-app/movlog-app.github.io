@@ -294,3 +294,16 @@ footer{max-width:1200px;margin:0 auto;border-top:1px solid var(--line)}
 .logo{display:inline-flex;align-items:center;gap:9px}
 .logo img{width:30px;height:30px;border-radius:9px;box-shadow:0 4px 12px rgba(23,34,31,.14)}
 .logo span{font-size:1.3rem;font-weight:800;letter-spacing:-.07em;color:var(--ink)}
+
+/* About Movlog feature points */
+.about-copy>p{max-width:580px}
+.about-points{display:grid;grid-template-columns:repeat(3,1fr);gap:1px;margin-top:55px;border-top:1px solid var(--line);background:var(--line)}
+.about-points article{padding:24px 20px 0 0;background:var(--paper)}
+.about-points article span{color:var(--muted);font-size:.68rem;font-weight:800;letter-spacing:.12em}
+.about-points h3{margin:28px 0 10px;font-size:1.2rem;letter-spacing:-.04em}
+.about-points p{margin:0;color:var(--muted);font-size:.82rem;line-height:1.65}
+@media(max-width:800px){
+  .about-points{grid-template-columns:1fr;margin-top:38px}
+  .about-points article{padding:22px 0;border-bottom:1px solid var(--line)}
+  .about-points article:last-child{border-bottom:0}
+}
