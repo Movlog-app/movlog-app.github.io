@@ -13,7 +13,7 @@
   "map.today": "오늘 · 12.4 km",
   "about.eyebrow": "MOVLOG가 필요한 이유",
   "about.title": "오늘을 살아가고,<br><i>움직임을 기억하세요.</i>",
-  "about.description": "의미 있는 순간이 모두 계획된 것은 아닙니다. Movlog는 나의 일상을 자동으로, 사적으로, 아름답게 기록합니다.",
+  "about.description": "Movlog는 하루 동안 어디를 이동했고, 어디에 머물렀는지 자동으로 기록합니다.",
   "features.automatic.title": "자동으로",
   "features.automatic.description": "별도의 수고 없이, 나의 이동 일상이 백그라운드에서 기록됩니다.",
   "features.personal.title": "나만의 기록",
@@ -30,5 +30,11 @@
   "showcase.details": "하루의 세부 기록까지",
   "download.eyebrow": "START YOUR STORY",
   "download.title": "당신의 이동을,<br><i>당신의 이야기로.</i>",
-  "download.button": "App Store에서 다운로드"
+  "download.button": "App Store에서 다운로드",
+  "about.point1.title": "자동 이동 기록",
+  "about.point1.description": "경로, 거리, 이동 시간과 차량·도보 이동을 자동으로 기록합니다.",
+  "about.point2.title": "방문과 체류 분석",
+  "about.point2.description": "방문한 장소와 머문 시간을 타임라인과 지도에서 확인합니다.",
+  "about.point3.title": "나만의 인사이트",
+  "about.point3.description": "자주 간 곳과 이동 패턴을 발견하며 나의 일상을 돌아봅니다."
 }
