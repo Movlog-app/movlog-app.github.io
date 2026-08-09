@@ -44,5 +44,8 @@
   "showcase.insights": "Discover your movement patterns",
   "about.point4.label": "KEEP MOVING",
   "about.point4.title": "A reason to keep moving",
-  "about.point4.description": "Build your movement history, discover new achievements, and keep your personal journey going."
+  "about.point4.description": "Build your movement history, discover new achievements, and keep your personal journey going.",
+  "about.archive.label": "DAILY ARCHIVE",
+  "about.archive.title": "Find every day again",
+  "about.archive.description": "Organize your movement day by day, search for any date in seconds, and add a note to keep the memory with the record."
 }
