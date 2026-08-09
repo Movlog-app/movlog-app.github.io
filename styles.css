@@ -154,3 +154,15 @@ i{
   .legend-item p{display:none}
   .legend-chip{white-space:nowrap}
 }
+
+/* Give the timeline more room with a left rail */
+.updates-page{max-width:1200px;padding-left:4vw;padding-right:4vw}
+.updates-layout{grid-template-columns:180px minmax(0,1fr);gap:52px}
+.updates-legend{grid-column:1;grid-row:1}
+.updates-content{grid-column:2;grid-row:1}
+@media(max-width:800px){
+  .updates-page{padding-left:6vw;padding-right:6vw}
+  .updates-layout{display:flex;gap:32px}
+  .updates-legend{grid-column:auto;grid-row:auto}
+  .updates-content{grid-column:auto;grid-row:auto}
+}
