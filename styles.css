@@ -107,3 +107,28 @@ i{
 
 .update-tags.compact{margin-top:-4px;margin-bottom:22px}
 .update-tags.compact span{border-color:var(--line);color:var(--muted);background:transparent;padding:5px 8px;font-size:.6rem}
+
+/* Historical tag chips */
+.timeline-item .update-card-inner h2{margin:0 0 20px}
+.update-tags.compact{
+  display:flex;
+  flex-wrap:wrap;
+  gap:6px;
+  margin:12px 0 15px;
+}
+.update-tags.compact span{
+  border:1px solid #d9e3d6;
+  border-radius:999px;
+  background:#eaf1df;
+  color:#526451;
+  padding:5px 9px;
+  font-size:.61rem;
+  font-weight:700;
+  letter-spacing:.04em;
+  line-height:1.2;
+}
+.update-toggle{margin-top:0}
+@media(max-width:800px){
+  .update-tags.compact{margin-top:10px;margin-bottom:14px}
+  .timeline-item .update-card-inner h2{margin-bottom:18px}
+}
