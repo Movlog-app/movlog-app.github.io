@@ -47,5 +47,15 @@
   "about.point4.description": "Build your movement history, discover new achievements, and keep your personal journey going.",
   "about.archive.label": "DAILY ARCHIVE",
   "about.archive.title": "Find every day again",
-  "about.archive.description": "Organize your movement day by day, search for any date in seconds, and add a note to keep the memory with the record."
+  "about.archive.description": "Organize your movement day by day, search for any date in seconds, and add a note to keep the memory with the record.",
+  "image.main": "assets/screenshots/movlog-main-en.jpg",
+  "image.main.alt": "Movlog main map screen",
+  "image.archive": "assets/screenshots/movlog-archive-en.jpg",
+  "image.archive.alt": "Movlog archive screen",
+  "image.details": "assets/screenshots/movlog-details-en.jpg",
+  "image.details.alt": "Movlog movement detail screen",
+  "image.insights": "assets/screenshots/movlog-insights-en.jpg",
+  "image.insights.alt": "Movlog insights screen",
+  "image.achievements": "assets/screenshots/movlog-achievements-en.jpg",
+  "image.achievements.alt": "Movlog achievements screen"
 }

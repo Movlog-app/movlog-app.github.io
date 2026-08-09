@@ -14,6 +14,14 @@ async function loadLanguage(language){
     const value=messages[element.dataset.i18n];
     if(value!==undefined) element.innerHTML=value;
   });
+  document.querySelectorAll('[data-i18n-src]').forEach(element=>{
+    const value=messages[element.dataset.i18nSrc];
+    if(value!==undefined) element.setAttribute('src',value);
+  });
+  document.querySelectorAll('[data-i18n-alt]').forEach(element=>{
+    const value=messages[element.dataset.i18nAlt];
+    if(value!==undefined) element.setAttribute('alt',value);
+  });
   const nextLanguage=language==='ko'?'en':'ko';
   toggle.setAttribute('aria-label',messages['language.switch']);
   toggle.setAttribute('title',messages['language.switch']);
