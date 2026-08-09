@@ -17,7 +17,14 @@ const messages={
     'updates.design':'DESIGN',
     'updates.performance':'PERFORMANCE',
     'updates.fixed':'FIXED',
-    'updates.feature':'FEATURE'
+    'updates.feature':'FEATURE',
+    'updates.legend.label':'TAG GUIDE',
+    'updates.legend.title':'업데이트 태그',
+    'updates.legend.new':'새롭게 추가된 기능',
+    'updates.legend.feature':'새 기능 및 기능 확장',
+    'updates.legend.improved':'기존 기능 개선',
+    'updates.legend.design':'화면·아이콘·사용성 변경',
+    'updates.legend.fixed':'오류 및 버그 수정'
   },
   en:{
     'nav.home':'Home',
@@ -33,7 +40,14 @@ const messages={
     'updates.design':'DESIGN',
     'updates.performance':'PERFORMANCE',
     'updates.fixed':'FIXED',
-    'updates.feature':'FEATURE'
+    'updates.feature':'FEATURE',
+    'updates.legend.label':'TAG GUIDE',
+    'updates.legend.title':'Update tags',
+    'updates.legend.new':'Newly added functionality',
+    'updates.legend.feature':'New features and extensions',
+    'updates.legend.improved':'Improvements to existing features',
+    'updates.legend.design':'Visual, icon, and usability changes',
+    'updates.legend.fixed':'Bug fixes and issue resolutions'
   }
 };
 
