@@ -44,5 +44,8 @@
   "showcase.insights": "나의 이동 패턴을 발견하기",
   "about.point4.label": "기록을 이어가는 재미",
   "about.point4.title": "기록을 이어가는 재미",
-  "about.point4.description": "이동과 방문 기록을 쌓으며 새로운 업적을 발견하고, 나의 여정을 계속 이어갑니다."
+  "about.point4.description": "이동과 방문 기록을 쌓으며 새로운 업적을 발견하고, 나의 여정을 계속 이어갑니다.",
+  "about.archive.label": "일별 기록보관함",
+  "about.archive.title": "기록을 쉽게 찾아보세요",
+  "about.archive.description": "하루 단위로 이동 기록을 정리하고, 검색으로 원하는 날을 빠르게 찾을 수 있습니다. 그날의 기억은 메모로 함께 남겨보세요."
 }
