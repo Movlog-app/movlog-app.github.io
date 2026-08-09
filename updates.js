@@ -48,7 +48,7 @@ function getTags(update,m){
   if(/개선|improv|향상|성능|performance|stabil|안정|정확|accur/.test(text)) tags.push(m['updates.improved']);
   if(/디자인|design|아이콘|icon|화면|screen|ui|테마|theme/.test(text)) tags.push(m['updates.design']);
   if(/버그|bug|fix|문제|오류|수정|issue/.test(text)) tags.push(m['updates.fixed']);
-  return [...new Set(tags)].slice(0,3);
+  const normalized=[...new Set(tags)].slice(0,3);return normalized.length?normalized:[m['updates.improved']];
 }
 
 function updateBody(update){
