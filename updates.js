@@ -65,8 +65,20 @@ function getTags(update,m){
   const normalized=[...new Set(tags)].slice(0,3);return normalized.length?normalized:[m['updates.improved']];
 }
 
+function getItemIcon(item){
+  const text=item.toLowerCase();
+  if(/버그|bug|fix|문제|오류|수정|issue|fixed/.test(text)) return {name:'fixed',symbol:'✓'};
+  if(/디자인|design|아이콘|icon|화면|screen|ui|테마|theme|rebrand|리브랜딩/.test(text)) return {name:'design',symbol:'✦'};
+  if(/개선|improv|향상|성능|performance|stabil|안정|정확|accur/.test(text)) return {name:'improved',symbol:'↗'};
+  if(/추가|added|add|new|지원|support|gallery|weather|photo|사진|날씨|업적|인사이트/.test(text)) return {name:'feature',symbol:'+'};
+  return {name:'note',symbol:'•'};
+}
+
 function updateBody(update){
-  return '<ul>'+update.items.map(item=>'<li>'+escapeHtml(item)+'</li>').join('')+'</ul>';
+  return '<ul>'+update.items.map(item=>{
+    const icon=getItemIcon(item);
+    return '<li class="update-line update-line-'+icon.name+'"><span class="update-line-icon" aria-hidden="true">'+icon.symbol+'</span><span>'+escapeHtml(item)+'</span></li>';
+  }).join('')+'</ul>';
 }
 
 function renderUpdate(update,index,m){
